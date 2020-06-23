@@ -8,6 +8,11 @@ if command 'pip' not found, try:
 ```
 pip3 install -r requirements.txt
 ```
+### Run
+```
+python3 main.py
+```
+if command 'pip' not found, try:
 ### Authors
 
 * **Paulina Czempiel**
