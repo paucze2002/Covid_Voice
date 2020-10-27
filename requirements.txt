@@ -9,7 +9,7 @@ cheroot==8.3.0
 CherryPy==14.0.1
 command-not-found==0.3
 configparser==5.0.0
-cryptography==2.9.2
+cryptography==3.2
 cupshelpers==1.0
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
